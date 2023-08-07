@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ra | wc -l
+find /dir/ -print | wc -l
